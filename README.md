@@ -1,6 +1,6 @@
 # React-native challenge
 
-Our React-native coding challenge is a simple "Crypto Tracker". Users should be able to add new cryptocurrencies, visualize the current price and the change in price in % for the last 24 hours, and also be able to remove a cryptocurrency from the "Crypto Tracker".
+Our React-native coding challenge is a simple "Crypto Tracker". Users should be able to add new cryptocurrencies, visualize the current price and the change in price in % for the last 24 hours, and also be able to remove a cryptocurrency from the app.
 
 # App setup
 
@@ -10,8 +10,9 @@ In case you are not familiar with Expo toolkit, have a look at their [documentat
 # Instructions
 
  - Clone this project and save it as a private repository in your github account.
- - When you finish, invite the user dmdmd on your project (and let your hiring manager know).
- - Include instructions/comments/remarks at the end of this README.md file when applicable
+ - When you finish, invite the user `dmdmd` on your project and let your review manager know.
+ - Include another markdown file with instructions/comments/remarks file when applicable.
+ - Please leave the task as if it was ready to be deployed to production.
 
 # Main Features of the app
 
