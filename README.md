@@ -10,19 +10,20 @@ In case you are not familiar with Expo toolkit, have a look at their [documentat
 # Instructions
 
  - Clone this project and save it as a private repository in your github account.
- - When you finish, invite the user `dmdmd` on your project and let your review manager know.
+ - Install the dependencies.
+ - When you finish the task, invite the user `dmdmd` on your project and let your review manager know.
  - Include another markdown file with instructions/comments/remarks file when applicable.
  - Please leave the task as if it was ready to be deployed to production.
 
 # Main Features of the app
 
 ### 1) List of cryptocurrencies
-Users should be able to visualize the list of cryptocurrencies they add on the app
+Users should be able to visualize the list of cryptocurrencies they add on the app.
 
 ### 2) Current price and percentage change in the last 24h
 Users should also be able to visualize:
-* Current price for the cryptocurrencies added
-* Change in percentage in USD in the last 24h
+* Current price for the cryptocurrencies added.
+* Change in percentage in USD in the last 24h.
 
 ### 3) API to get pricing and percentage change
 Feel free to use the pricing and percentage change provider of your preference. One of the simplest ones that doesn't require registration is [Messari](https://messari.io/api/docs). You can find a sample bellow:
